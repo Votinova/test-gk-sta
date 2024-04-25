@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Votinova/test-gk-sta/static/css/main.858f6ebe.css",
+    "main.js": "/Votinova/test-gk-sta/static/js/main.6bd900fa.js",
+    "static/media/2023-03-16_17-17 2.png": "/Votinova/test-gk-sta/static/media/2023-03-16_17-17 2.b762400d872a6e9961f4.png",
+    "static/media/image 223.png": "/Votinova/test-gk-sta/static/media/image 223.2ea77730ce86eb5a36df.png",
+    "static/media/image 22.png": "/Votinova/test-gk-sta/static/media/image 22.d1c0e95a3d15f8adf95e.png",
+    "static/media/image 222.png": "/Votinova/test-gk-sta/static/media/image 222.e917616ba891c2ab08df.png",
+    "static/media/image 221.png": "/Votinova/test-gk-sta/static/media/image 221.1a3f7af567c2d158ba0b.png",
+    "static/media/Ellipse 24.png": "/Votinova/test-gk-sta/static/media/Ellipse 24.29de5369bf28a278b281.png",
+    "static/media/Ellipse 21.png": "/Votinova/test-gk-sta/static/media/Ellipse 21.85c577d3af0e3bda72cc.png",
+    "static/media/Ellipse 25.png": "/Votinova/test-gk-sta/static/media/Ellipse 25.8a26e701f714a990e23e.png",
+    "static/media/Ellipse 22.png": "/Votinova/test-gk-sta/static/media/Ellipse 22.74eb98a9a99966f37174.png",
+    "static/media/Ellipse 23.png": "/Votinova/test-gk-sta/static/media/Ellipse 23.d995925c3506bf852373.png",
+    "static/media/Ellipse 2.png": "/Votinova/test-gk-sta/static/media/Ellipse 2.51ef7ee11b6bc39234cb.png",
+    "index.html": "/Votinova/test-gk-sta/index.html",
+    "main.858f6ebe.css.map": "/Votinova/test-gk-sta/static/css/main.858f6ebe.css.map",
+    "main.6bd900fa.js.map": "/Votinova/test-gk-sta/static/js/main.6bd900fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.858f6ebe.css",
+    "static/js/main.6bd900fa.js"
+  ]
+}
