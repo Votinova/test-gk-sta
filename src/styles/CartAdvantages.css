@@ -1,0 +1,25 @@
+.cartAdvantages {
+    display: flex;
+    gap: 27px;
+    align-items: center;
+    width: 405px;
+}
+.info {
+    display: flex;
+    flex-direction: column;
+    gap: 11px;
+}
+.titleAdvantages {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: #333333;
+}
+.textAdvantages {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 18px;
+    color: #666666;
+}

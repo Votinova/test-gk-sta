@@ -1,0 +1,31 @@
+.catalog-technic {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    margin-left: 282px;
+    margin-top: 120px;
+    max-width: 1347px;
+    font-style: normal;
+
+}
+.catalog-parts {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    margin-left: 282px;
+    margin-top: 120px;
+    margin-bottom: 60px;
+    max-width: 1347px;
+}
+
+.carts {
+    display: flex;
+}
+
+.title {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 33px;
+    color: #333333;
+}

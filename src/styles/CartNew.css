@@ -1,0 +1,36 @@
+.CartNew {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    border: 1px solid #ECECEC;
+    width: 313px;
+    height: 379px;
+}
+.new-info {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 20px 25px;
+    gap: 23px;
+}
+.new-img {
+    width: 313px;
+    height: 165px;
+}
+.data {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 170%;
+    color: #999999;
+}
+.new-text {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 170%;
+    color: #333333;
+    width: 264px;
+}

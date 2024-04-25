@@ -1,0 +1,39 @@
+.mainPage {
+    background-image: url('../img/2023-03-16_17-17\ 2.png');
+    width: 1920px;
+    height: 594px;
+}
+.container {
+    max-width: 658px;
+    height: 315px;
+    padding-top: 120px;
+    padding-left: 279px;
+    display: flex;
+    flex-direction: column; 
+    gap: 40px;
+}
+.header {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    letter-spacing: 0.01em;
+    color: #FFFFFF;
+    line-height: 130%;
+}
+.info {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    letter-spacing: 0.01em;
+    color: #FFFFFF;
+    line-height: 130%;
+}
+ .request {
+    max-width: 454px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    letter-spacing: 0.01em;
+    color: #FFFFFF;
+    line-height: 130%;
+}
