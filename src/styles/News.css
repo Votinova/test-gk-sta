@@ -17,3 +17,15 @@
     display: flex;
     gap: 32px;
 }
+@media (max-width: 360px) {
+    .news {
+        width: 360px;
+        padding-left: 10px;
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+    .cartsNews {
+        display: flex;
+        flex-direction: column;
+    }
+}

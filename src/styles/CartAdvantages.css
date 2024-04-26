@@ -23,3 +23,23 @@
     line-height: 18px;
     color: #666666;
 }
+
+@media (max-width: 360px) {
+   .cartAdvantages {
+        width: 360px;
+   }
+    .titleAdvantages {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 22px;
+   }
+   .textAdvantages {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 13px;
+        line-height: 18px;
+   }
+}

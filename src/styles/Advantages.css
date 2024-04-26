@@ -7,7 +7,7 @@
     padding-bottom: 40px;
 }
 .advantages {
-    margin-left: 282px;
+    padding-left: 282px;
     background-color:  rgba(248, 248, 248, 1);
     padding-top: 60px;
     padding-bottom: 60px;
@@ -21,4 +21,27 @@
 .back {
     background-color: rgba(248, 248, 248, 1);
     width: 1920px;
+}
+
+@media (max-width: 360px) {
+    .back {
+        width: 360px;
+    }
+    .advantages {
+        padding-top: 80px;
+        padding-bottom: 80px;
+        padding-left: 0px;
+    }
+    .advantages-title {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 33px;
+    }
+    .cartsAdvanteges {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
 }

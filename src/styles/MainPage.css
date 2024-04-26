@@ -37,3 +37,44 @@
     color: #FFFFFF;
     line-height: 130%;
 }
+@media (max-width: 360px) {
+    .mainPage {
+        background-image: url('../img/mobilePage.png');
+        width: 360px;
+        height: 330px;
+    }
+    .container {
+        display: flex;
+        flex-direction: column; 
+        gap: 20px;
+        max-width: 329px;
+        height: 170px;
+        padding-top: 80px;
+        padding-left: 12px;
+    }
+    .header {
+        font-style: normal;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 130%;
+        letter-spacing: 0.01em;
+        color: #FFFFFF;
+
+    }
+    .info {
+        font-style: normal;
+        font-weight: 600;
+        font-size: 15px;
+        line-height: 130%;
+        letter-spacing: 0.01em;
+        color: #FFFFFF;
+    }
+    .request {
+        font-style: normal;
+        font-weight: 600;
+        font-size: 10px;
+        line-height: 130%;
+        letter-spacing: 0.01em;
+        color: #FFFFFF;
+    }
+}
