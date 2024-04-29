@@ -32,13 +32,6 @@
         padding-bottom: 80px;
         padding-left: 0px;
     }
-    .advantages-title {
-        font-family: 'Open Sans';
-        font-style: normal;
-        font-weight: 400;
-        font-size: 24px;
-        line-height: 33px;
-    }
     .cartsAdvanteges {
         display: flex;
         flex-direction: column;

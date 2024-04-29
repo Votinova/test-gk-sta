@@ -12,7 +12,6 @@
     flex-direction: column;
     gap: 10px;
     align-items: flex-end;
-    font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 22px;
@@ -21,7 +20,6 @@
 
 .logo {
     margin-top: 10px;
-    font-style: normal;
     font-weight: 600;
     font-size: 48px;
     line-height: 130%;
@@ -29,7 +27,6 @@
 }
  .text {
     margin-top: 28px;
-    font-style: normal;
     font-weight: 400;
     font-size: 20px;
     line-height: 130%;
@@ -48,28 +45,18 @@
     }
     .logo {
         margin-top: 0px;
-        font-style: normal;
-        font-weight: 600;
         font-size: 18.5693px;
-        line-height: 130%;
         color: #555555;
     }
     .text {
         margin-top: 0px;
-        font-style: normal;
-        font-weight: 400;
         font-size: 10px;
-        line-height: 130%;
-        color: #555555;
         width: 157px;
     }
     .contacts {
         margin-top: 0px;
-        font-style: normal;
-        font-weight: 400;
         font-size: 10px;
         line-height: 14px;
-        color: #000000;
     }
 }
 

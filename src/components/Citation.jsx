@@ -2,7 +2,7 @@ import React from 'react';
 import '../styles/Citation.css'
 
 export const Citation = () => {
-  return (
+    return (
     <div className='citation'>
         <div className='citation-title'>
             Цитаты — лучший способ изучения мыслителей от Древнего мира до современности!
